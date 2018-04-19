@@ -1,4 +1,4 @@
-@version = "0.3.0"
+@version = "0.5.0"
 
 Pod::Spec.new do |s|
   s.name         = "AutoAlignButtonTools"
